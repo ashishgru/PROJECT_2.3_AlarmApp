@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_alarm_list.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\menu\\menu_alarm_list.xml"
+    }
+]

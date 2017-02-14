@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ashishrpa.acagild.alarmclock.settings.TimePreference
+        android:key="@string/pref_time_key" />
+
+    <ashishrpa.acagild.alarmclock.settings.RepeatingDaysPreference
+        android:key="@string/pref_repeating_days_key"
+        android:layout="@layout/preference_repeatingdays"
+        android:title="@string/pref_title_repeating"/>
+
+    <ashishrpa.acagild.alarmclock.settings.NamePreference
+        android:key="@string/pref_name_key"
+        android:title="@string/pref_title_name"/>
+
+    <ashishrpa.acagild.alarmclock.settings.RingtonePreference
+        android:key="@string/pref_ringtone_key"
+        android:title="@string/pref_title_ringtone" />
+
+    <ashishrpa.acagild.alarmclock.settings.VibratePreference
+        android:key="@string/pref_vibrate_key"
+        android:title="@string/pref_title_vibrate" />
+
+    <ashishrpa.acagild.alarmclock.settings.ButtonsPreference
+        android:key="@string/pref_buttons_key" />
+
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tos">Alarm</string>>  <string name="tos_one_last_thing">One last thing</string>
+    <string name="tos_prompt_title">@string/tos_one_last_thing</string>
+    <string name="tos_prompt_text">Alarm Test</string>
+    <string name="tos_prompt_confirm">Got it!</string>
+    <string name="tos_title">Check</string>
+    <string name="tos_prompt_ohoh">@string/tos_one_last_thing</string>
+    <string name="tos_prompt_reconfirm">Go now</string>
+</resources>

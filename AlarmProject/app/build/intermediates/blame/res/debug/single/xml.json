@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_mimics.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\xml\\pref_mimics.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_global.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\xml\\pref_global.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_alarm.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\xml\\pref_alarm.xml"
+    }
+]

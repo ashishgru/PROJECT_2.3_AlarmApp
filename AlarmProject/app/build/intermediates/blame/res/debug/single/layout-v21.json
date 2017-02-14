@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_category_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.0.1\\res\\layout-v21\\preference_category_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_information_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.0.1\\res\\layout-v21\\preference_information_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\23.0.1\\res\\layout-v21\\preference_material.xml"
+    }
+]

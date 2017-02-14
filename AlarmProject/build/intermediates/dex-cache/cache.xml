@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_89bddf8b7b6fda828a5c738784a1f8a602d3201f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\preference-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-preference-v7-23.0.1_c133f8f24fecb9704c20db4c42cc09ae24e7ff29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.9.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b91d39a93dfeda20d847dcbcc9d597605dc2114d">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mixpanel.android-mixpanel-android-4.9.2_fae58c504472c9703c2143a3a2f1ad00aab347eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03af0222addcf98c5eb0e282eb81f5e5310e102">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8467308d3fcb3c9ab09ffc90f44e785d76d2acb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f20bb4561723122786d7fb1562f5dc334f34eeeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\56.1\8dd6671f52165a0419e6de5e1016400875a90fa9\icu4j-56.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8dd6671f52165a0419e6de5e1016400875a90fa9">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\icu4j-56.1_4fd5c15fef52fbaac696a7429eee0d2dce9eff81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="52621654c48f4474af05204ce160de60584644cf">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_83ff7cff48cf944f67c342ab4793676905d08ed2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e5f8f991216bf82a563e5d017d45423582a89d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_a63eef86b349faa578c384103c84b2988e9459cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_ab4f557497f0bccb5b0fc27ded0df874d4d4858e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_77122d98d08006988b3adbddbcb9c7abf5f5257c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_799a37355a52b2ff6dc90e3ae4c2e83102782f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_12d8c8d4e396bef962f054a7b26924324708acf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\preference-v14\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0841483ac3b01320cd98570f7a9e474d145519bc">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-preference-v14-23.0.1_c9632e03a38162e5af42926f9624be0efb9bcd74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_3890dbcf5dac5289f34f6fd182bd643f18e1a19e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Andriod\PROJECT_2.3\AlarmProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_f7f4a938aa604903e688ab42dad72b1e136913bd\classes.dex" />
+    </item>
+
+</items>

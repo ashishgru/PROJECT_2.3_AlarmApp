@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_left_arrow_animation.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_left_arrow_animation.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_left_arrow_animated_3.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_left_arrow_animated_3.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snooze_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\snooze_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_4.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_4.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_off.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\flashlight_off.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_bg.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\flashlight_bg.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\add_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_game_animate1.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_game_animate1.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dragelineleft.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\dragelineleft.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_5.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_5.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_last_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_last_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\add_alarm_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_text_answer_border.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_text_answer_border.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\share_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_toast_border.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\share_toast_border.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_left_arrow_animated_2.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_left_arrow_animated_2.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draglineright.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\draglineright.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offline_game_1.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\offline_game_1.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\close_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight_on.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\flashlight_on.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_1.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_1.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_alarm_clock.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\no_alarm_clock.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button_highlight.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button_highlight.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_alarm_arrow.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\no_alarm_arrow.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sunrise_header.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\sunrise_header.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_clock_notification.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\alarm_clock_notification.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_right_arrow_animated_3.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_right_arrow_animated_3.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_middle_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_middle_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_2.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_2.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_first_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_first_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_ringing_clock.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\alarm_ringing_clock.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_right_arrow_animated_2.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_right_arrow_animated_2.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_trash_can.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\delete_trash_can.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_right_arrow_animated_1.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_right_arrow_animated_1.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_left_arrow_animated_1.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_left_arrow_animated_1.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_button_colors.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\share_button_colors.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_checkmark_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_checkmark_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_insets.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_insets.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\download_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ringing_right_arrow_animation.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\ringing_right_arrow_animation.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onboarding_tutorial_6.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\onboarding_tutorial_6.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offline_game_2.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\offline_game_2.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_states.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_states.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_insets.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_insets.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dismiss_button.png",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\dismiss_button.png"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_nocolor_list.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_nocolor_list.xml"
+    },
+    {
+        "merged": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashlight.xml",
+        "source": "D:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\src\\main\\res\\drawable\\flashlight.xml"
+    }
+]

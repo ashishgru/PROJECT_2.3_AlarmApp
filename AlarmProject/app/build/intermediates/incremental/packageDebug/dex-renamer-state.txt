@@ -1,0 +1,7 @@
+#Tue Feb 14 14:27:39 IST 2017
+base.0=D\:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8467308d3fcb3c9ab09ffc90f44e785d76d2acb2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_83ff7cff48cf944f67c342ab4793676905d08ed2\\classes.dex
+base.1=D\:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_83ff7cff48cf944f67c342ab4793676905d08ed2
+file.0=D\:\\Andriod\\PROJECT_2.3\\AlarmProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8467308d3fcb3c9ab09ffc90f44e785d76d2acb2\\classes.dex
